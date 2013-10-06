@@ -1,0 +1,6 @@
+*{padding:0;margin:0;}
+body{font-family: Arial,sans-serif;}
+.header{background-color:#DDDDDD;}
+.header div{width:800px;margin:0 auto;padding: 25px 0;}
+.content{width:800px;margin:10px auto;}
+.content img{max-width:800px;margin: 10px auto;}
